@@ -1,0 +1,15 @@
+{
+  "name": "山田 太郎",
+  "age": 25,
+  "address": {
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "street": "中央通り1-2-3"
+  },
+  "hobbies": [
+    "読書",
+    "映画鑑賞",
+    "旅行"
+  ],
+  "isStudent": false
+}
